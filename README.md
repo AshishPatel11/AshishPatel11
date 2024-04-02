@@ -1,17 +1,59 @@
-<h1 align="center">Hi 👋, I'm Ashish Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="left">Hi 👋! My name is Ashish Patel</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishpatel11&label=Profile%20views&color=0e75b6&style=flat" alt="ashishpatel11" /> </p>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishpatel11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishpatel11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p align="left">
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<img align="right" height="150" src="https://lh3.googleusercontent.com/pw/AP1GczMTi4koztDseHRcQWcfyIrEVON8kbfRTEuY9j-MTSrByOmfmwgoHhqX24hyFkfToeEZgD0E2R3P8ZxemrI2Ii1zGZavEqnKEsd9FPIkGA888MOu0-vdsf06gTQbDb4Hq78OyabVsiXy106WlF1Kzw06TB_asyPsOi42rffqv9uNKLjRRxepCFBZsBOzeJ9yuL4Eza0ynbhZbBpiK2VXP_RxCkOZbn2-hmbJg_TCMerV5ksg7ZwGxFWSIIfTGBD75EFApjO-RPXDRijnZRBHNSkEZiPOPOu41swGiTS-n_LB7dKWRDWl52iAPX9NDHkeMIRchNri99Qqz6O1f3EKPTrgqzu-T1n8gVSMIR_GYU5pj0WDPTpYsQKK0zeQVrYYE6LASaMNddxlC_5EIOJoQPoYyWleJjpMkyDOrlG9W4rxB2IV2HKPahw17NgQQfoqTtI8fb-neDJ1n15qO4StrnyRI0x2WtDbMLH4waLTuETIZEGYDmXStmTBVH_E3bAp28b8Z6p_7dGPvYs3AzeW0CwvxwkzSMBgjzmZQbn1FF3CgJ6DGHaI9mcFBc_FqdJJhuutykKRgSBW5pVFbQitVrS-WtHrjyQb17RPJx-G8Lbl_noAWGYUW-0SW9DZjqiwcbP9e2SxmN-5r-pl_6t_VcWngMLAypKDo-P4dn8ibff6fYoTPnBvlB3h-Vd2YpsIU4fYSCIDOdUatfHmRPyz-sTu8FsxkBV0ijiM06KkXZOmF5YwPE2kJdNYRD6OaRsCuVGI5DhMZ-7rTT7SBpPKstbyOdCKk5EHElJvnIgrr64p7qTo-kVEi3WGlL800CyjYKUH9ZFBtHESTkTDw-o0vA2ubMlW0U0X_VYEdjiJb2d64IbwZYyKPDe0rhFNntxtzgqurYZz_4ONkwp4TlfpTCy3=w670-h893-s-no-gm?authuser=0"  />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishpatel11&show_icons=true&locale=en&layout=compact" alt="ashishpatel11" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishpatel11&show_icons=true&locale=en" alt="ashishpatel11" /></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishpatel11&" alt="ashishpatel11" /></p>
+###
+
+<div align="left">
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ashishpatel11/ashishpatel11/output/snake.svg" alt="Snake animation" />
+
+###
